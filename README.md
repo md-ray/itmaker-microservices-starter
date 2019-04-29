@@ -1,13 +1,16 @@
 ﻿# itmaker-microservices-starter
 
 Starterpack for Spring boot based Microservices for developing APIs
-
-Expose RESTFUL API
-Swagger Ready -- done
-Return successful response code -- done
-Return failed response code -- done
-Logging ready
-Process Metrics
+<ul>
+  <li>Expose RESTFUL API</li>
+  <ul>
+    <li>Swagger Ready -- done</li>
+    <li>Return successful response code -- done</li>
+    <li>Return failed response code -- done</li>
+    <li>Logging ready</li>
+    <li>Process Metrics</li>
+  </ul>
+</ul>
 
 Connect to REST API
 Public Restful
